@@ -1,0 +1,3 @@
+To run simply run main.py
+
+Must have numpy and Matplotlib modules installed as well as any version of Python 3
